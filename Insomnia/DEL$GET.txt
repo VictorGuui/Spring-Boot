@@ -1,0 +1,2 @@
+A função GET no no Spring é para realizar consulta a tabela de médicos criada.
+A função DEL tem a propriedade de excluir um médico do app mas não o exclui do banco de dados.

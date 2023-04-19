@@ -1,0 +1,14 @@
+{
+    "nome": "Victor Guilherme",
+    "email": "victor.branco@voll.med",
+    "crm": "881929",
+    "telefone":"61999998334",
+    "especialidade": "ORTOPEDIA",
+    "endereco": {
+        "logradouro": "rua 1",
+        "bairro": "bairro",
+        "cep": "12345678",
+        "cidade": "Brasilia",
+        "uf": "DF"
+        }
+    }
